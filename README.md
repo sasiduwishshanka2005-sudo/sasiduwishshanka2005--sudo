@@ -24,4 +24,5 @@
 - ESP8266 Web Control System
 
 ## Contact
-GitHub: saiduwishshanka2005-sudo
+GitHub: Sasidu-Tech
+
